@@ -22,17 +22,17 @@ It also includes a **Tkinter-based GUI**, allowing users to input data and get r
 
 ## Features
 
-- 📊 Data preprocessing and feature engineering  
-- 🤖 Regression model for prediction  
-- 🖥️ Interactive GUI using Tkinter  
-- ⚡ Real-time calorie prediction  
+- Data preprocessing and feature engineering  
+- Regression model for prediction  
+- Interactive GUI using Tkinter  
+- Real-time calorie prediction  
 
 ---
 
 ## Model Performance
 
-- 📈 Achieved **R² Score: 0.99**  
-- 🎯 High prediction accuracy on test data  
+- Achieved **R² Score: 0.99**  
+- High prediction accuracy on test data  
 
 ---
 
